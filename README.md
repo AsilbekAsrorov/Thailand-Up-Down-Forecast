@@ -16,7 +16,7 @@ street location using machine learning. The model forecasts the next
 ## How to run
 
 1. Clone the repo:
-   git clone https://github.com/[yourusername]/Thailand-Up-Down-Forecast.git
+   git clone https://github.com/AsilbekAsrorov/Thailand-Up-Down-Forecast.git
    cd Thailand-Up-Down-Forecast
 
 2. Install dependencies:
@@ -28,9 +28,8 @@ street location using machine learning. The model forecasts the next
 4. Run all cells top to bottom.
 
 ## Results
-- Best model: [fill in after running, e.g. ExtraTreesRegressor]
-- Test RMSE (up_count): [fill in]
-- Test RMSE (down_count): [fill in]
+- Best model: ExtraTrees
+- Test RMSE: 17.948331
 
 ## Dataset
 See `data/DATASET_INFO.md` for details.
